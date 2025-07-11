@@ -923,6 +923,9 @@ const App = () => {
                     <p className="text-blue-400 text-sm mt-2">
                       Endereço onde da entrada na cédula: <a href="https://maps.app.goo.gl/K7ZCzA3QYH7std8E8" target="_blank" rel="noopener noreferrer">Ver no mapa</a>
                     </p>
+                    <p className="text-blue-400 text-sm mt-2">
+                      Contato do Oficial Sabino: <a href="https://urlcurta.top/wgDmv" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+                    </p>
                   </div>
                   
                   <div className="p-4 bg-red-900/20 rounded-lg border border-red-500/30">
